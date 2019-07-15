@@ -37,7 +37,7 @@ function TodoForm({ addTodo }) {
     </form>
   )
 }
-
+// main app
 export default function App() {
   const [todos, setTodos] = useState([
     {
